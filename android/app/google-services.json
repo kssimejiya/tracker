@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65287794968",
+    "project_id": "tarcker-e47ab",
+    "storage_bucket": "tarcker-e47ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65287794968:android:a2828b58fa4b3c6418ae6d",
+        "android_client_info": {
+          "package_name": "com.tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeoPpyPFlanrOvl-vzWY44DeKg1ivaHjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
